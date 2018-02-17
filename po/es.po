@@ -8,9 +8,9 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: ayatana-dev@lists.launchpad.net\n"
 "POT-Creation-Date: 2013-04-17 16:00+0100\n"
-"PO-Revision-Date: 2010-03-02 12:36-0500\n"
-"Last-Translator: Canonical OEM\n"
-"Language-Team: Spanish\n"
+"PO-Revision-Date: 2018-02-17 16:30+0100\n"
+"Last-Translator: advocatux <advocatux@airpost.net>\n"
+"Language-Team: Spanish UBports Team\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,334 +18,330 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid " (Hold)"
-msgstr ""
+msgstr "Mantener pulsado"
 
 msgid " (Tap)"
-msgstr ""
+msgstr "Golpecito"
 
 msgid " + 1 to 9"
-msgstr ""
+msgstr " + 1 a 9"
 
 msgid " + Arrow Keys"
-msgstr ""
+msgstr "Teclas de dirección"
 
 msgid " + Shift + 1 to 9"
-msgstr ""
+msgstr " + Cambiar + 1 a 9"
 
 msgid " Drag"
-msgstr ""
+msgstr "Arrastrar"
 
 msgid " or Right"
-msgstr ""
+msgstr "o derecha"
 
 msgid "Activate"
-msgstr ""
+msgstr "Activar"
 
 msgid "All"
-msgstr ""
+msgstr "Todo"
 
 msgid "Arrow Keys"
-msgstr ""
+msgstr "Teclas de dirección"
 
 msgid "Categories"
-msgstr ""
+msgstr "Categorías"
 
 msgid "Closes the current window."
-msgstr ""
+msgstr "Cierra la ventana actual."
 
 msgid "Ctrl + Alt + Num"
-msgstr ""
+msgstr "Ctrl + Alt + Num"
 
 msgid "Ctrl + Tab"
-msgstr ""
+msgstr "Ctrl + Tab"
 
 msgid "Cursor Left or Right"
-msgstr ""
+msgstr "Cursor a la izquierda o a la derecha"
 
 msgid "Dash"
-msgstr ""
+msgstr "Panel"
 
 msgid "Drop To Add Application"
-msgstr ""
+msgstr "Soltar para añadir aplicación"
 
 msgid "Eject"
-msgstr ""
+msgstr "Expulsar"
 
 msgid "Eject parent drive"
-msgstr ""
+msgstr "Expulsar unidad principal"
 
 msgid "Empty Trash..."
-msgstr ""
+msgstr "Vaciar papelera..."
 
 msgid "Enter"
-msgstr ""
+msgstr "Entrar"
 
 msgid "Filter results"
-msgstr ""
+msgstr "Filtrar resultados"
 
 #, c-format
 msgid ""
 "Goodbye, %s. Are you sure you want to close all programs and log out from "
 "your account?"
 msgstr ""
+"Adiós, %s. ¿Está seguro de que quiere cerrar todos los programas y cerrar la "
+"sesión de su cuenta?"
 
 #, c-format
 msgid ""
 "Goodbye, %s. Are you sure you want to close all programs and shut down the "
 "computer?"
 msgstr ""
+"Adiós, %s. ¿Está seguro de que quiere cerrar todos los programas y apagar "
+"el ordenador?"
 
 #, c-format
 msgid "Goodbye, %s. Would you like to…"
-msgstr ""
+msgstr "Adiós, %s. Le gustaría…"
 
 msgid "HUD"
-msgstr ""
+msgstr "HUD"
 
 msgid "HUD & Menu Bar"
-msgstr ""
+msgstr "HUD y barra de menú"
 
 #, c-format
 msgid ""
 "Hi %s, you have open files that you might want to save before logging out. "
 "Are you sure you want to continue?"
 msgstr ""
+"Hola %s, tiene archivos abiertos que podría querer guardar antes de cerrar la sesión. "
+"¿Está seguro de que quiere continuar?"
 
 #, c-format
 msgid ""
 "Hi %s, you have open files that you might want to save before shutting down. "
 "Are you sure you want to continue?"
 msgstr ""
+"Hola %s, tiene archivos abiertos que podría querer guardar antes de apagar. "
+"¿Está seguro de que quiere continuar?"
 
 #, c-format
 msgid ""
 "Hi %s, you have open files you might want to save.\n"
 "Would you like to…"
 msgstr ""
+"Hola %s, tiene archivos abiertos que podría querer guardar.\n"
+"Le gustaría…"
 
 #. We have enough buttons to show the message without a new line.
 #, c-format
 msgid "Hi %s, you have open files you might want to save. Would you like to…"
-msgstr ""
+msgstr "Hola %s, tiene archivos abiertos que podría querer guardar. Le gustaría…"
 
 msgid "Hibernate"
-msgstr ""
+msgstr "Hibernar"
 
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "Atajos de teclado"
 
 msgid "Last Updated"
-msgstr ""
+msgstr "Última actualización"
 
 msgid "Launcher"
-msgstr ""
+msgstr "Lanzador"
 
 msgid "Left Mouse"
-msgstr ""
+msgstr "Botón izquierdo del ratón"
 
 msgid "Lock"
-msgstr ""
+msgstr "Anclar"
 
-#, fuzzy
 msgid "Lock to Launcher"
-msgstr "Quitar del iniciador"
+msgstr "Anclar al lanzador"
 
 msgid "Log Out"
-msgstr ""
+msgstr "Cerrar sesión"
 
 msgid "Maximises the current window."
-msgstr ""
+msgstr "Maximiza la ventana actual."
 
 msgid "Middle Mouse"
-msgstr ""
+msgstr "Botón central del ratón"
 
 msgid "Minimises all windows."
-msgstr ""
+msgstr "Minimiza todas las ventanas."
 
 msgid "Moves focus between indicators."
-msgstr ""
+msgstr "Mueve el foco entre indicadores."
 
 msgid "Moves focused window to another workspace."
-msgstr ""
+msgstr "Mueve la ventana enfocada a otro espacio de trabajo."
 
 msgid "Moves the focus."
-msgstr ""
+msgstr "Mueve el foco."
 
 msgid "Moves the window."
-msgstr ""
+msgstr "Mueve la ventana."
 
 msgid "Multi-range"
-msgstr ""
+msgstr "Multi-rango"
 
 msgid "No Image Available"
-msgstr ""
+msgstr "Imagen no disponible"
 
 msgid "Open"
-msgstr ""
+msgstr "Abrir"
 
 msgid "Opens Launcher keyboard navigation mode."
-msgstr ""
+msgstr "Abre el modo de navegación del teclado del lanzador."
 
 msgid "Opens a new window in the app."
-msgstr ""
+msgstr "Abre una nueva ventana en la aplicación."
 
 msgid "Opens the Dash App Lens."
-msgstr ""
+msgstr "Abre la lente de la aplicación del panel."
 
 msgid "Opens the Dash Files Lens."
-msgstr ""
+msgstr "Abre la lente de los archivos del panel."
 
 msgid "Opens the Dash Home."
-msgstr ""
+msgstr "Abre el inicio del panel."
 
 msgid "Opens the Dash Music Lens."
-msgstr ""
+msgstr "Abre la lente del panel de música."
 
 msgid "Opens the Dash Video Lens."
-msgstr ""
+msgstr "Abre la lente del panel de vídeo."
 
 msgid "Opens the HUD."
-msgstr ""
+msgstr "Abre el HUD."
 
 msgid "Opens the Launcher, displays shortcuts."
-msgstr ""
+msgstr "Abre el lanzador, muestra los accesos directos."
 
 msgid "Opens the Trash."
-msgstr ""
+msgstr "Abre la papelera"
 
 msgid "Opens the currently focused item."
-msgstr ""
+msgstr "Abre el objeto actualmente enfocado."
 
 msgid "Opens the indicator menu."
-msgstr ""
+msgstr "Abre el menú del indicador."
 
 msgid "Opens the window accessibility menu."
-msgstr ""
+msgstr "Abre el menú de accesibilidad de ventana."
 
 msgid "Places the window in corresponding position."
-msgstr ""
+msgstr "Coloca la ventana en la posición correspondiente."
 
 msgid "Quicklist"
-msgstr ""
+msgstr "Lista rápida"
 
 msgid "Quit"
 msgstr "Salir"
 
 msgid "Rating"
-msgstr ""
+msgstr "Clasificación"
 
 msgid "Resizes the window."
-msgstr ""
+msgstr "Redimensiona la ventana."
 
 msgid "Restart"
-msgstr ""
+msgstr "Reiniciar"
 
 msgid "Restores or minimises the current window."
-msgstr ""
+msgstr "Restaura o minimiza la ventana actual."
 
 msgid "Reveals the application menu."
-msgstr ""
+msgstr "Revela el menú de aplicación."
 
 msgid "Right Mouse"
-msgstr ""
+msgstr "Botón derecho del ratón"
 
 msgid "Safely remove"
-msgstr ""
+msgstr "Quitar con seguridad"
 
 msgid "Safely remove parent drive"
-msgstr ""
+msgstr "Quitar con seguridad la unidad principal"
 
 msgid "Same as clicking on a Launcher icon."
-msgstr ""
+msgstr "Igual que pulsar en un icono del lanzador."
 
 msgid "Search your computer and online sources"
-msgstr ""
+msgstr "Buscar en su ordenador y en fuentes online"
 
 msgid "See fewer results"
-msgstr ""
+msgstr "Ver menos resultados"
 
 msgid "Semi-maximise the current window."
-msgstr ""
+msgstr "Semi-maximizar la ventana actual."
 
 msgid "Show Desktop"
-msgstr ""
+msgstr "Mostrar escritorio"
 
 msgid "Shut Down"
-msgstr ""
+msgstr "Apagar"
 
 msgid "Sorry, there is nothing that matches your search."
-msgstr ""
+msgstr "Disculpe, no hay nada que coincida con su búsqueda".
 
 msgid "Spreads all windows in the current workspace."
-msgstr ""
+msgstr "Extiende todas las ventanas en el espacio de trabajo actual."
 
 msgid "Suspend"
-msgstr ""
+msgstr "Suspender"
 
 msgid "Switcher"
-msgstr ""
+msgstr "Conmutador"
 
 msgid "Switches applications via the Launcher."
-msgstr ""
+msgstr "Conmuta aplicaciones vía el lanzador."
 
 msgid "Switches between Lenses."
-msgstr ""
+msgstr "Conmuta entre Lentes"
 
 msgid "Switches between applications."
-msgstr ""
+msgstr "Conmuta entre aplicaciones."
 
 msgid "Switches between workspaces."
-msgstr ""
+msgstr "Conmuta entre espacios de trabajo."
 
 msgid "Switches windows of current applications."
-msgstr ""
+msgstr "Conmuta entre ventanas de las aplicaciones actuales."
 
 msgid "Switches workspaces."
-msgstr ""
+msgstr "Conmuta espacios de escritorio."
 
 msgid "Switching"
-msgstr ""
+msgstr "Conmutar"
 
 msgid "The drive has been successfully ejected"
-msgstr ""
+msgstr "La unidad ha sido expulsada con éxito"
 
 msgid "Trash"
-msgstr ""
+msgstr "Papelera"
 
 msgid "Type your command"
-msgstr ""
+msgstr "Introduzca su orden"
 
 msgid "Ubuntu Desktop"
-msgstr ""
+msgstr "Escritorio de Ubuntu"
 
-#, fuzzy
 msgid "Unlock from Launcher"
-msgstr "Quitar del iniciador"
+msgstr "Desanclar del lanzador"
 
 msgid "Unmount"
-msgstr ""
+msgstr "Desmontar"
 
 #. Application is being installed, or hasn't been installed yet
 msgid "Waiting to install"
-msgstr ""
+msgstr "Esperando que finalice la instalación"
 
 msgid "Windows"
-msgstr ""
+msgstr "Ventanas"
 
 msgid "Workspace Switcher"
-msgstr ""
+msgstr "Conmutador de espacio de trabajo"
 
 msgid "Workspaces"
-msgstr ""
-
-#, fuzzy
-#~ msgid "Hide Launcher"
-#~ msgstr "Quitar del iniciador"
-
-#, fuzzy
-#~ msgid "Keep in launcher"
-#~ msgstr "Conservar en el iniciador"
-
-#, fuzzy
-#~ msgid "Launchers"
-#~ msgstr "Quitar del iniciador"
+msgstr "Espacios de trabajo"
